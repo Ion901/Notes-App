@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    margin: 20px;
+    
+}
+.create-notes{
+    margin: 20px;
+    padding:10px;
+    border-radius: 10px;
+    display: flex;
+    background-color: blueviolet;
+    color: white;
+    width:fit-content;
+}
